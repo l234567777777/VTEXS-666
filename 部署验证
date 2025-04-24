@@ -1,0 +1,2 @@
+# 可运行性测试命令
+docker run -p 8000:8000 your_username/aimodeldeploykit
